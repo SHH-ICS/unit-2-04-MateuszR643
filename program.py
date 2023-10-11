@@ -16,7 +16,7 @@ for i in range(32):
   if result == "":
     result = str(i+1)
   
-  print(result)
+  print(result + "\n")
 #  result = str(result) + str(i) + "\n"
 
 
